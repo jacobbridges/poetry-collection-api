@@ -6,8 +6,8 @@ All poems can be found in the **collection** directory in the corresponding auth
 
 ```
 collection
-├── Cowper, William
+├── William Cowper
 │   └── Light Shining out of Darkness.json
-└── Henley, William Ernest
+└── William Ernest Henley
     └── Invictus.json
 ```
