@@ -131,3 +131,7 @@ bower_components
 
 # sftp configuration file
 sftp-config.json
+
+# iPython notebooks
+*.ipynb
+.ipynb_checkpoints
