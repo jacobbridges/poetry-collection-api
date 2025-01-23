@@ -1,14 +1,14 @@
-# 📜 Poetry Collection API
+# Poetry Collection API
 
 > **Beautiful words from humans, for humans.**
 
-## 🌟 Project Journey
+## Project Journey
 
 I started this project back in 2015 -- then it was just a single Python spider and a dump of poems from poetryfoundation.org. (You can still find the original code on the `legacy` branch if you are interested.)
 
 But now the year is 2025. **The world has changed. And I feel we need poetry now more than ever before.**
 
-## 🚀 The Plan
+## The Plan
 
 My mission is to create an open and refined poetry dataset:
 
@@ -27,7 +27,7 @@ My mission is to create an open and refined poetry dataset:
    - Build Jupyter Notebooks to jumpstart developer exploration
    - Publish a Python module for easy dataset interaction
 
-## 🤖 A Note on AI
+## A Note on AI
 
 **LLM generated poems are not allowed in this dataset.**
 
