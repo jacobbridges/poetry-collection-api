@@ -39,3 +39,17 @@ My initial thoughts:
 4. System will deliver the most recent version by default, but provide a way to browse all versions.
 
 A tool like [splink](https://github.com/moj-analytical-services/splink) could be useful to detect when two scraped records should actually be different versions of the same poem.
+
+
+## Repo structure
+
+This repo will not include the source code for the installable piece. That should be in a separate repo to benefit from separate CI pipelines and releases. (I have an urk about monorepos anyway.)
+
+```
+├───docs
+└───src
+    ├───automation
+    │   └ Code related to content ingestion (e.g. web scraping). 
+    └───collection
+        └ Code related to building the corpus.
+```

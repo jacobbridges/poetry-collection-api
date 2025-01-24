@@ -1,0 +1,7 @@
+[project]
+name = "poetry-collection-api"
+version = "0.1.0"
+description = "Poetry collection exposed via programmatic interface."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
